@@ -13,4 +13,4 @@ Tracing where features and concepts come from in programming languages
 
 ## Link to a talk about `else`
 
-[This talk](https://github.com/ericfischer/if-then-else/blob/master/if-then-else.md) is great, and lays out the history of if-else.
+[This talk](https://github.com/ericfischer/if-then-else/blob/master/if-then-else.md) is great, and lays out the history of if-else. [HN discussion](https://news.ycombinator.com/item?id=25406211).
