@@ -22,3 +22,7 @@ Tracing where features and concepts come from in programming languages
 In which I learn that the reason B and C use `break` (as opposed to a separate keyword like `endcase`) to escape out of `switch` statements, is that B was based on an older version of BCPL, before BCPL got the `endcase` keyword.
 
 Interestingly, Perl 6/Raku re-introduced the difference with its `succeed` keyword.
+
+## The separate compilation in ML was inspired by Modula
+
+See https://github.com/masak/interesting-papers/issues/450 for details.
