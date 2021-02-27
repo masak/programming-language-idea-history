@@ -26,3 +26,7 @@ Interestingly, Perl 6/Raku re-introduced the difference with its `succeed` keywo
 ## The separate compilation in ML was inspired by Modula
 
 See https://github.com/masak/interesting-papers/issues/450 for details.
+
+## Nim was inspired by Modula/Oberon
+
+Its type and module systems were, according to [this HN thread](https://news.ycombinator.com/item?id=26275553).
