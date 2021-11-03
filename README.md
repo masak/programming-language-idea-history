@@ -30,3 +30,7 @@ See https://github.com/masak/interesting-papers/issues/450 for details.
 ## Nim was inspired by Modula/Oberon
 
 Its type and module systems were, according to [this HN thread](https://news.ycombinator.com/item?id=26275553).
+
+## Timeline from Wikipedia
+
+[This timeline](https://en.wikipedia.org/wiki/Timeline_of_programming_languages) is a great resource and starting point for choosing influential languages.
