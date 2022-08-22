@@ -34,3 +34,11 @@ Its type and module systems were, according to [this HN thread](https://news.yco
 ## Timeline from Wikipedia
 
 [This timeline](https://en.wikipedia.org/wiki/Timeline_of_programming_languages) is a great resource and starting point for choosing influential languages.
+
+## Where does `for` come from?
+
+According to [Wikipedia](https://en.wikipedia.org/wiki/Superplan),
+
+> Superplan introduced the keyword "for" resp. the German
+> [für](https://en.wiktionary.org/wiki/f%C3%BCr#German)
+> with its [for loop](https://en.wikipedia.org/wiki/For_loop)
