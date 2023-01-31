@@ -42,3 +42,10 @@ According to [Wikipedia](https://en.wikipedia.org/wiki/Superplan),
 > Superplan introduced the keyword "for" resp. the German
 > [für](https://en.wiktionary.org/wiki/f%C3%BCr#German)
 > with its [for loop](https://en.wikipedia.org/wiki/For_loop)
+
+## Internal and external iterators
+
+Two blog posts ([one](https://journal.stuffwithstuff.com/2013/01/13/iteration-inside-and-out/), [two](https://journal.stuffwithstuff.com/2013/02/24/iteration-inside-and-out-part-2/)) by Bob Nystrom give a pretty good overview.
+
+* _External_ iterators tend to look like `Iterable`/`Iterator` interfaces, and a `for` loop syntax
+* _Internal_ iterators tend to look like an `each` or `forEach` method
