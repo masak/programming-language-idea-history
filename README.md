@@ -49,3 +49,7 @@ Two blog posts ([one](https://journal.stuffwithstuff.com/2013/01/13/iteration-in
 
 * _External_ iterators tend to look like `Iterable`/`Iterator` interfaces, and a `for` loop syntax
 * _Internal_ iterators tend to look like an `each` or `forEach` method
+
+## Dijkstra's famous argument for half-open intervals
+
+[Why numbering should start at zero](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD831.html) argues both for counting from zero, and for using half-open intervals (like Python does).
