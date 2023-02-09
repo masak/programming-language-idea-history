@@ -11,6 +11,14 @@ Tracing where features and concepts come from in programming languages
 * **Declarative languages**: CSS, HTML, SQL
 * **Forgotten languages**: Ada, Awk, HyperTalk, Modula-3, Self, Smalltalk, Oberon, Algol 60, Algol 68, Cobol, Fortress, BASIC, Simula, Oz, Prolog, Dylan, NewtonScript, Delphi, PL/I, APL, Rexx
 
+## Wikipedia's list of languages
+
+Wikipedia has [a footer template with programming languages](https://en.wikipedia.org/wiki/Template:Programming_languages), and I thought it was a nice representative list:
+
+> Ada · ALGOL · APL · Assembly · BASIC · C · C++ · C# · Classic Visual Basic · COBOL · Erlang · Forth · Fortran · Go · Haskell · Java · JavaScript · Kotlin · Lisp · Lua · MATLAB · ML · Object Pascal · Pascal · Perl · PHP · Prolog · Python · R · Ruby · Rust · SQL · Scratch · Shell · Simula · Smalltalk · Swift · Visual Basic
+
+Maybe the only thing I would contest is "Object Pascal" instead of Delphi, but that one is admittedly borderline.
+
 ## Link to a talk about `else`
 
 [This talk](https://github.com/ericfischer/if-then-else/blob/master/if-then-else.md) is great, and lays out the history of if-else. [HN discussion](https://news.ycombinator.com/item?id=25406211).
