@@ -67,3 +67,8 @@ Two blog posts ([one](https://journal.stuffwithstuff.com/2013/01/13/iteration-in
 The paper [Programming Languages: History and Future](https://dl.acm.org/doi/pdf/10.1145/361454.361485) has an _awesome_ history chart on page 6.
 It's hard to do this chart justice.
 All the languages that survived to the present day are there, and a great many others besides.
+
+## Short-circuiting boolean operators
+
+* Dijkstra famously [warned against](https://www.cs.utexas.edu/users/EWD/ewd10xx/EWD1009.PDF) short-circuiting logical operators, but in practice they are widespread in modern languages.
+* A number of languages have both the non-short-circuiting form and the short-circuiting form.
