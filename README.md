@@ -72,3 +72,4 @@ All the languages that survived to the present day are there, and a great many o
 
 * Dijkstra famously [warned against](https://www.cs.utexas.edu/users/EWD/ewd10xx/EWD1009.PDF) short-circuiting logical operators, but in practice they are widespread in modern languages.
 * A number of languages have both the non-short-circuiting form and the short-circuiting form.
+* In more than one BASIC, `AND` and `OR` do not short-circuit.
