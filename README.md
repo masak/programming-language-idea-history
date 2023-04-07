@@ -73,3 +73,14 @@ All the languages that survived to the present day are there, and a great many o
 * Dijkstra famously [warned against](https://www.cs.utexas.edu/users/EWD/ewd10xx/EWD1009.PDF) short-circuiting logical operators, but in practice they are widespread in modern languages.
 * A number of languages have both the non-short-circuiting form and the short-circuiting form.
 * In more than one BASIC, `AND` and `OR` do not short-circuit.
+
+## Type punning and the "truthy" convention
+
+We should discuss this. A number of mainstream languages follow this convention:
+
+* Perl 5/Raku
+* Python
+* JavaScript
+
+Many others don't.
+It influences how you write conditions in the language, and spreads into other nearby idioms.
