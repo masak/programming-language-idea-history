@@ -1,5 +1,8 @@
 # programming-language-idea-history
-Tracing where features and concepts come from in programming languages
+
+Tracing where features and concepts come from in programming languages.
+
+> Or perhaps I should say "dislike?" No, I think "hate" will do nicely. All languages suck. &mdash; [Steve Yegge](https://sites.google.com/site/steveyegge2/ancient-languages-perl)
 
 ## List of languages to start with
 
