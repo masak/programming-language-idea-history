@@ -91,3 +91,7 @@ We should discuss this. A number of mainstream languages follow this convention:
 
 Many others don't.
 It influences how you write conditions in the language, and spreads into other nearby idioms.
+
+## "Compiler", not "translator"
+
+In [this slide deck](http://www.itu.dk/~sestoft/papers/compilerhistory-diku-20140221.pdf), there's a quote from Grace Hopper's "A Programmer's Glossary" (1954-05-01), which explains how we ended up with the term "compiler" crowding out the (previously more common) term "translator".
