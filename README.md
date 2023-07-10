@@ -54,7 +54,9 @@ According to [Wikipedia](https://en.wikipedia.org/wiki/Superplan),
 > [für](https://en.wiktionary.org/wiki/f%C3%BCr#German)
 > with its [for loop](https://en.wikipedia.org/wiki/For_loop)
 
-It should be added that Superplan was developed by [Heinz Rutishauser](https://en.wikipedia.org/wiki/Heinz_Rutishauser), one of the earliest people deserving the title "computer scientist".
+Superplan was developed by [Heinz Rutishauser](https://en.wikipedia.org/wiki/Heinz_Rutishauser), one of the earliest people deserving the title "computer scientist".
+
+> Among other contributions, he introduced several basic syntactic features to computer programming, notably the reserved word (keyword) for for a for loop, first as the German für in Superplan, next via its English translation for in ALGOL 58.
 
 ## Internal and external iterators
 
