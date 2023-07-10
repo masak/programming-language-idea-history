@@ -54,6 +54,8 @@ According to [Wikipedia](https://en.wikipedia.org/wiki/Superplan),
 > [für](https://en.wiktionary.org/wiki/f%C3%BCr#German)
 > with its [for loop](https://en.wikipedia.org/wiki/For_loop)
 
+It should be added that Superplan was developed by [Heinz Rutishauser](https://en.wikipedia.org/wiki/Heinz_Rutishauser), one of the earliest people deserving the title "computer scientist".
+
 ## Internal and external iterators
 
 Two blog posts ([one](https://journal.stuffwithstuff.com/2013/01/13/iteration-inside-and-out/), [two](https://journal.stuffwithstuff.com/2013/02/24/iteration-inside-and-out-part-2/)) by Bob Nystrom give a pretty good overview.
