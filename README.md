@@ -95,3 +95,7 @@ It influences how you write conditions in the language, and spreads into other n
 ## "Compiler", not "translator"
 
 In [this slide deck](http://www.itu.dk/~sestoft/papers/compilerhistory-diku-20140221.pdf), there's a quote from Grace Hopper's "A Programmer's Glossary" (1954-05-01), which explains how we ended up with the term "compiler" crowding out the (previously more common) term "translator".
+
+## We didn't end up with `=` for equality
+
+Well, in some languages, we did: the BASIC I grew up with does that (but overloads it with assignment depending on context). OCaml uses `=` for equality testing. Pascal famously uses `=` for equality and `:=` for assignment.
