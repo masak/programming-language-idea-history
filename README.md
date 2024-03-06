@@ -99,3 +99,14 @@ In [this slide deck](http://www.itu.dk/~sestoft/papers/compilerhistory-diku-2014
 ## We didn't end up with `=` for equality
 
 Well, in some languages, we did: the BASIC I grew up with does that (but overloads it with assignment depending on context). OCaml uses `=` for equality testing. Pascal famously uses `=` for equality and `:=` for assignment.
+
+## Billion dollar mistake
+
+It's a bit of a cliché already to call null pointers (or "null references") a [billion dollar mistake](https://www.youtube.com/watch?v=YYkOWzrO3xg).
+But maybe there's a core of truth and wisdom in there that can be focused on.
+
+What could have been the alternative, if we imagine history playing out in a different way?
+Pattern-matching and typed destructuring, for sure. That is, good `match` statements, and also things like monadic combinators.
+The problem with that is that this required (and still requires) a kind of type-based "regimentation" that people are still hesitant to commit to.
+When people talk about ADTs, they mostly mean sum types (since product types are already common); and the sum types imply _enforcing_ coverage (unless you're Erlang).
+Maybe history took the path it did because enforcing coverage didn't look realistic, or didn't seem to have a good cost/benefit ratio or good ergonomics.
