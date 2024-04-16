@@ -115,4 +115,5 @@ Maybe history took the path it did because enforcing coverage didn't look realis
 
 As statement terminators/separators? In many languages.
 
-[This post] speculates a bit.
+[This post](https://ntietz.com/blog/researching-why-we-use-semicolons-as-statement-terminators/) speculates a bit.
+Also [this post](https://www.werkema.com/2022/02/10/we-dont-talk-about-semicolons/).
