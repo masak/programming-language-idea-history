@@ -110,3 +110,9 @@ Pattern-matching and typed destructuring, for sure. That is, good `match` statem
 The problem with that is that this required (and still requires) a kind of type-based "regimentation" that people are still hesitant to commit to.
 When people talk about ADTs, they mostly mean sum types (since product types are already common); and the sum types imply _enforcing_ coverage (unless you're Erlang).
 Maybe history took the path it did because enforcing coverage didn't look realistic, or didn't seem to have a good cost/benefit ratio or good ergonomics.
+
+## Why semicolons?
+
+As statement terminators/separators? In many languages.
+
+[This post] speculates a bit.
